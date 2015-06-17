@@ -1,6 +1,6 @@
 <?php
 
-namespace aiddroid;
+namespace aiddroid\transencrypt;
 
 /**
  * 通讯加密类

@@ -1,0 +1,17 @@
+{
+    "name": "aiddroid/transencrypt",
+    "description": "encryptor for data transmission",
+    "authors": [
+        {
+            "name": "aiddroid",
+            "email": "aiddroid@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload": {
+        "psr-4": {"aiddroid\\transencrypt\\": "src"}
+    }
+}
