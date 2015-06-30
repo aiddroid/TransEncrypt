@@ -1,5 +1,5 @@
 # TransEncrypt
-A encryptor for data transform
+A encryptor for data transmission.
 ## Usage
 - encrypt
 ```
